@@ -1,3 +1,4 @@
+/* corps */
 .flex{
     display: flex;
 }
@@ -5,3 +6,13 @@
     padding-left: 3rem;
     padding-top: 10rem;
 }
+
+/* footer */
+.bg-color{
+    background-color: rgb(5, 73, 73);
+    height: 10vh;
+    margin-top: 10rem;
+    text-align: center;
+    padding-top: 1.5rem;
+}
+.bg-color p
